@@ -1,0 +1,24 @@
+[INFO] Filename : server.py--Line number: 252--Process is: 1110--Time: 2020-10-24 02:49:42,576--server started on [0.0.0.0]:1028
+[INFO] Filename : server.py--Line number: 158--Process is: 1110--Time: 2020-10-24 02:49:43,067--accepted ('73.146.117.135', 50176) with fd 5
+[INFO] Filename : server.py--Line number: 201--Process is: 1110--Time: 2020-10-24 02:49:43,067--welcome ('73.146.117.135', 50176)
+
+[INFO] Filename : master.py--Line number: 84--Process is: 1110--Time: 2020-10-24 02:49:44,064--KVServer instance already exists..
+[INFO] Filename : master.py--Line number: 94--Process is: 1110--Time: 2020-10-24 02:49:44,068--Master CONNECTED to KV Server
+[INFO] Filename : master.py--Line number: 52--Process is: 1110--Time: 2020-10-24 02:49:44,068--Attempting to create mapper0
+[INFO] Filename : master.py--Line number: 55--Process is: 1110--Time: 2020-10-24 02:49:53,635--mapper0 instance created
+[INFO] Filename : master.py--Line number: 52--Process is: 1110--Time: 2020-10-24 02:49:53,635--Attempting to create mapper1
+[INFO] Filename : master.py--Line number: 55--Process is: 1110--Time: 2020-10-24 02:50:04,105--mapper1 instance created
+[INFO] Filename : master.py--Line number: 52--Process is: 1110--Time: 2020-10-24 02:50:04,105--Attempting to create mapper2
+[INFO] Filename : master.py--Line number: 55--Process is: 1110--Time: 2020-10-24 02:50:11,578--mapper2 instance created
+[INFO] Filename : master.py--Line number: 67--Process is: 1110--Time: 2020-10-24 02:50:11,578--Trying to connect instance on ip: 35.224.125.113
+[INFO] Filename : master.py--Line number: 67--Process is: 1110--Time: 2020-10-24 02:50:32,658--Trying to connect instance on ip: 34.72.168.68
+[INFO] Filename : master.py--Line number: 67--Process is: 1110--Time: 2020-10-24 02:50:38,681--Trying to connect instance on ip: 34.123.41.7
+[INFO] Filename : master.py--Line number: 52--Process is: 1110--Time: 2020-10-24 02:50:46,711--Attempting to create reducer0
+[INFO] Filename : master.py--Line number: 55--Process is: 1110--Time: 2020-10-24 02:50:54,895--reducer0 instance created
+[INFO] Filename : master.py--Line number: 52--Process is: 1110--Time: 2020-10-24 02:50:54,895--Attempting to create reducer1
+[INFO] Filename : master.py--Line number: 55--Process is: 1110--Time: 2020-10-24 02:51:02,093--reducer1 instance created
+[INFO] Filename : master.py--Line number: 67--Process is: 1110--Time: 2020-10-24 02:51:02,093--Trying to connect instance on ip: 23.236.48.163
+[INFO] Filename : master.py--Line number: 67--Process is: 1110--Time: 2020-10-24 02:51:31,179--Trying to connect instance on ip: 34.70.234.7
+[INFO] Filename : master.py--Line number: 130--Process is: 1110--Time: 2020-10-24 02:51:37,426--Input data chunks created
+[INFO] Filename : master.py--Line number: 172--Process is: 1110--Time: 2020-10-24 02:52:01,319--Cluster destroyed
+[INFO] Filename : server.py--Line number: 208--Process is: 1110--Time: 2020-10-24 02:52:01,397--goodbye ('73.146.117.135', 50176)
